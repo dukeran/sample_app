@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
+gem 'bcrypt'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # converts Less to Sass and makes all the necessary Bootstrap files available to the current application
